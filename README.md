@@ -59,7 +59,7 @@ Copyright: NGUYEN MINH HIEU
 ##### 2. Change info + rip via ( update 10/08/2024 )
 - Change info via: tên, ngày sinh, giới tính
 - Bật 2FA
-- Share tk vào dòng 2 BM
+- Share tk vào dòng 2 BM ( Share trung gian qua 1 con via khác rồi mới add vào BM )
 - Rip die via gốc cầm TKQC
 - Link video hướng dẫn: đang update .....
 #### TUT gỡ mail + phone
