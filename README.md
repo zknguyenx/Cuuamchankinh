@@ -49,12 +49,18 @@ Copyright: NGUYEN MINH HIEU
 	- Other notifications -> Disable
 - Link: ( https://adsmanager.facebook.com/adsmanager/manage/ad_account_settings/notification_settings ) -> Disable
 #### TUT chống back
+##### Với Meta
 - Mua 1 con instagram hoặc tạo
 - Vào https://meta.com tạo tài khoản bằng con instagram vừa mua bên trên
 - Liên kết Facebook với Meta
 - Đồng bộ thông tin, cho phép các tài khoản được quyền đăng nhập vào nhau
 * Sau này nếu có bị back sẽ sử dụng Meta để Login lại 
 -> Done
+##### Update: change info
+- Change info via: tên, ngày sinh, giới tính
+- Bật 2FA
+- Share tk vào dòng 2 BM
+- Rip die via gốc cầm TKQC
 - Link video hướng dẫn: đang update .....
 #### TUT gỡ mail + phone
 - Mua 1 con instagram hoặc tạo
